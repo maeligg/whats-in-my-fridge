@@ -66,6 +66,7 @@
 
 .recipes {
   display: flex;
+  margin: 0;
 }
 
 .recipe {
